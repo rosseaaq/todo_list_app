@@ -4,7 +4,7 @@ A simple and efficient desktop **To-Do List application** built using **C++** an
 
 ---
 
-## Features
+# Features
 
 - Add new tasks  
 - Delete tasks  
@@ -15,12 +15,16 @@ A simple and efficient desktop **To-Do List application** built using **C++** an
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 - **C++** – Core programming language  
 - **wxWidgets** – Cross-platform GUI library    
 
 ---
 
-## Project Structure
-
+# Project Structure
+│
+├── month1task.slnx # Entry point of the application
+├── App.cpp/h # Application initialization
+├── MainFrame.cpp/h # GUI layout and event handling
+└── Task.cpp/h # Task logic and storage
