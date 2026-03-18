@@ -4,24 +4,23 @@ A simple and efficient desktop **To-Do List application** built using **C++** an
 
 ---
 
-## 🚀 Features
+## Features
 
-- ✅ Add new tasks  
-- 🗑️ Delete tasks  
-- ✏️ Mark tasks as completed  
-- 📋 View all tasks in a list  
-- 💾 (Optional) Save & load tasks from file  
-- 🖥️ Clean and user-friendly GUI  
+- Add new tasks  
+- Delete tasks  
+- Mark tasks as completed  
+- View all tasks in a list  
+- Save & load tasks from text file  
+- Clean and user-friendly GUI  
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **C++** – Core programming language  
-- **wxWidgets** – Cross-platform GUI library  
-- **STL (Standard Template Library)** – Data structures and logic handling  
+- **wxWidgets** – Cross-platform GUI library    
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
