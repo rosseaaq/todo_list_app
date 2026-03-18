@@ -17,11 +17,10 @@ A simple and efficient desktop **To-Do List application** built using **C++** an
 **Technologies Used**
 
 - **C++** – Core programming language  
-- **wxWidgets** – Cross-platform GUI library    
+- **wxWidgets** – Cross-platform GUI library
+  
 
----
-
-**Project Structure**
+**Project Structure**<br>
 │<br>
 ├── month1task.slnx # Entry point of the application<br>
 ├── App.cpp/h # Application initialization<br>
